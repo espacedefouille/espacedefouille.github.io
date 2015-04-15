@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Espace de fouille]]></title><link href="espacedefouille.org/atom.xml" rel="self"/><link href="espacedefouille.org/"/><updated>2015-04-15T11:41:50+02:00</updated><id>espacedefouille.org/</id><author><name><![CDATA[Frédéric Bouquet]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[Grain+Github et nom de domaine personnalisé]]></title><link href="espacedefouille.org/blog/2015/04/15/grain-github-et-nom-de-domaine-personnalise/"/><updated>2015-04-15T11:41:50+02:00</updated><id>/blog/2015/04/15/grain-github-et-nom-de-domaine-personnalise/</id><content type="html"><![CDATA[<p>Grain est un moteur de site web statique écrit en groovy. L'idée est d'utiliser Grain pour générer un blog (cet espace
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Espace de fouille]]></title><link href="espacedefouille.org/categories/blog/atom.xml" rel="self"/><link href="espacedefouille.org/"/><updated>2015-04-10T15:00:05+02:00</updated><id>espacedefouille.org/</id><author><name><![CDATA[Frédéric Bouquet]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[Grain+Github et nom de domaine personnalisé]]></title><link href="espacedefouille.org/blog/2015/04/15/grain-github-et-nom-de-domaine-personnalise/"/><updated>2015-04-15T11:41:50+02:00</updated><id>/blog/2015/04/15/grain-github-et-nom-de-domaine-personnalise/</id><content type="html"><![CDATA[<p>Grain est un moteur de site web statique écrit en groovy. L'idée est d'utiliser Grain pour générer un blog (cet espace
 de fouille) et de stocker le tout comme une github page. L'ensemble, bien qu'assez simple et rapide nécessite les étapes
 suivantes :
 1. Téléchargement d'un thème
@@ -56,24 +56,4 @@ de domaine à utiliser pour le site statique est personnalisé.</p>
 <p>Cela se fait en ajoutant à la racine du site un fichier CNAME. Pour nous, ce fichier est à créer dans content.
 Le fichier contient simplement le nom de domaine à utiliser (pour moi : espacedefouille.org).</p>
 <p>Une fois le site déployé, il sera accessible via son nom de domaine.</p>
-]]></content></entry><entry><title type="html"><![CDATA[L'espace de fouille fait peau neuve]]></title><link href="espacedefouille.org/blog/2015/04/13/l-espace-de-fouille-fait-peau-neuve/"/><updated>2015-04-15T10:46:54+02:00</updated><id>/blog/2015/04/13/l-espace-de-fouille-fait-peau-neuve/</id><content type="html"><![CDATA[<p>Depuis environ 5 ans, je maintiens un espace de fouille personnel qui fut tour à tour un blog, un wiki, un site, ...
-Il devient aujourd'hui un blog, dans le sens originel du terme : un web log, espace de recherche et de suivi des
-découvertes qui me semblent intéressantes à garder avant tout pour moi. Si cela peut servir à quelqu'un d'autre, autant
-partager alors le voici en ligne.</p>
-<h1>Technique, mais pas que !</h1>
-<p>A l'origine, l'espace de fouille se concentrait sur la technique : le code, l'administration, ...
-J'ai un aveu à vous faire : la vie ce n'est pas que l'informatique ! Et j'irai même plus loin : l'informatique n'est
-qu'un outil, pas une finalité en soi !
-Certes, l'informatique peut être un métier, une passion, mais cela reste un outil au même titre qu'un marteau, qu'un
-pinceau, qu'une voiture, que... Ce n'est qu'une réponse possible à un besoin donné.</p>
-<p>Depuis plusieurs années, mes fouilles m'ont amené à explorer bien des domaines, comment vendre, comment raconter des
-histoires, comment courir, comment communiquer, ...
-Ainsi, plutôt que de me concentrer sur un seul sujet, autant placer dans un seul cachier de recherche le fruit de mes
-exploration.</p>
-<h1>Les besoins et les solutions possibles !</h1>
-<p>Je parlais plus haut d'outils. Les outils sont intéressants, mais les besoins le sont peut être plus, tout comme
-les idées de solution. Ainsi, plutôt que de me concentrer sur un seul outil comme je l'ai fait jusqu'à maintenant,
-j'ai pour intention d'expliciter les besoins que je peux observer, pousser des réflexions aussi loin que possible sur
-les réels buts qui se cachent derrière. J'ai aussi l'intension d'explorer les solutions possibles et, le cas échéant,
-explorer la technique et les outils qui permettent de mettre en place ces solutions.</p>
 ]]></content></entry></feed>
