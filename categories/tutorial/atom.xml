@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title><![CDATA[Espace de fouille]]></title><link href="espacedefouille.org/categories/tutorial/atom.xml" rel="self"/><link href="espacedefouille.org/"/><updated>2015-04-10T15:00:05+02:00</updated><id>espacedefouille.org/</id><author><name><![CDATA[Frédéric Bouquet]]></name></author><generator uri="http://sysgears.com/grain/">Grain</generator><entry><title type="html"><![CDATA[Créer un lien dans Trello]]></title><link href="espacedefouille.org/blog/2015/04/23/creer-un-lien-dans-trello/"/><updated>2015-04-23T10:49:38+02:00</updated><id>/blog/2015/04/23/creer-un-lien-dans-trello/</id><content type="html"><![CDATA[<p>Trello supporte Markdown pour les descriptions des cartes créées. Ainsi, il est possible d'ajouter un lien cliquable
+comme dans la description de la tâche suivante :</p>
+<p><img src='/images/trello/link-3c8f96904bfe5d8d3885a12f8b490298.jpg' alt='email image' >
+</p>
+<p>Plus d'infos <a href="http://help.trello.com/article/821-using-markdown-in-trello">ici</a></p>
+]]></content></entry></feed>
